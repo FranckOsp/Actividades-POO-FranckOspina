@@ -4,11 +4,11 @@
 
 # Actividad 2: Programacion Orientada a Objetos Grupo 3
 ---
-Ejercicio 2.1:
-Ejercicio 2.2:
-Ejercicio 2.3:
-Ejercicio 2.4:
-Ejercicio 2.5:
+* Ejercicio 2.1:
+* Ejercicio 2.2:
+* Ejercicio 2.3:
+* Ejercicio 2.4:
+* Ejercicio 2.5:
 
 
 # Actividad 1: Programacion Orientada a Objetos Grupo 3
