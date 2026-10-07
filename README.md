@@ -7,8 +7,8 @@
 * Ejercicio 2.1: * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranckOsp/Actividades-POO-FranckOspina/blob/main/Ejercicio_2,1_Act2.ipynb)
 * Ejercicio 2.2: * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranckOsp/Actividades-POO-FranckOspina/blob/main/Ejercicio_2,2Act2.ipynb)
 * Ejercicio 2.3: * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranckOsp/Actividades-POO-FranckOspina/blob/main/Ejercicio_2,3Act2.ipynb)
-* Ejercicio 2.4:
-* Ejercicio 2.5:
+* Ejercicio 2.4: * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranckOsp/Actividades-POO-FranckOspina/blob/main/Ejercicio_2,4Act2.ipynb)
+* Ejercicio 2.5: * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranckOsp/Actividades-POO-FranckOspina/blob/main/Ejercicio_2,5Act2.ipynb)
 
 
 # Actividad 1: Programacion Orientada a Objetos Grupo 3
