@@ -4,7 +4,8 @@
 
 # Actividad 3: Programacion Orientada a Objetos Grupo 3
 ---
-* Carpeta con los códigos de los ejercicios: *
+## 📁 Carpeta Actividad 3
+* 🚀 **[Acceder a la Entrega 2 (Ejercicios 8.2 y 8.3)](./Entrega2/)**
 
 # Actividad 2: Programacion Orientada a Objetos Grupo 3
 ---
