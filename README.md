@@ -5,7 +5,7 @@
 # Actividad 3: Programacion Orientada a Objetos Grupo 3
 ---
 ## 📁 Carpeta Actividad 3
-* 🚀 **[(Ejercicios)](./ACTIVIDAD_3/)**
+* 🚀 **[(Ejercicios)](./ACTIVIDAD_3_POO/)**
 
 # Actividad 2: Programacion Orientada a Objetos Grupo 3
 ---
