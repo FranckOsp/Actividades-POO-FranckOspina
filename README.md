@@ -6,6 +6,7 @@
 ---
 ## 📁 Carpeta Actividad 3
 * 🚀 **[(Ejercicio 8.2)](./ACTIVIDAD_3_POO/Ejercicio_8_2.py)**
+* 🚀 **[(Ejercicio 8.3)](./ACTIVIDAD_3_POO/Ejercicio_8_3.py)**
 
 # Actividad 2: Programacion Orientada a Objetos Grupo 3
 ---
