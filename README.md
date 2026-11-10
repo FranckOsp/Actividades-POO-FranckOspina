@@ -11,6 +11,7 @@
 * 🚀 **[(Ejercicio 6.6)](./ACTIVIDAD_4_POO/Ejercicio_6_6.py)**
 * 🚀 **[(Ejercicio 6.7)](./ACTIVIDAD_4_POO/Ejercicio_6_7.py)**
 * 🚀 **[(Ejercicio 6.8)](./ACTIVIDAD_4_POO/Ejercicio_6_8.py)**
+* Prueba.txt para probar el ejercicio 6.8 (descargar)
 * 🚀 **[(Archivo.txt(Ejer_6.8)](./ACTIVIDAD_4_POO/prueba.txt)**
 
 # Actividad 3: Programacion Orientada a Objetos Grupo 3
