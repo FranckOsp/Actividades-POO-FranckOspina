@@ -7,7 +7,7 @@
 ---
 ## 📁 Carpeta Actividad 4
 * 🚀 **[(Ejercicio 6.4)](./ACTIVIDAD_4_POO/Ejercicio_6_4.py)**
-* 🚀 **[(Ejercicio 8.3)](./ACTIVIDAD_3_POO/Ejercicio_8_3.py)**
+* 🚀 **[(Ejercicio 6.5)](./ACTIVIDAD_4_POO/Ejercicio_6_5.py)**
 * 🚀 **[(Ejercicio 8.2)](./ACTIVIDAD_3_POO/Ejercicio_8_2.py)**
 * 🚀 **[(Ejercicio 8.2)](./ACTIVIDAD_3_POO/Ejercicio_8_2.py)**
 * 🚀 **[(Ejercicio 8.2)](./ACTIVIDAD_3_POO/Ejercicio_8_2.py)**
