@@ -1,0 +1,2 @@
+¡Hola! Este es el contenido de prueba del archivo prueba.txt.
+Ejercicio 6.8 resuelto correctamente.
