@@ -9,7 +9,7 @@
 * 🚀 **[(Ejercicio 6.4)](./ACTIVIDAD_4_POO/Ejercicio_6_4.py)**
 * 🚀 **[(Ejercicio 6.5)](./ACTIVIDAD_4_POO/Ejercicio_6_5.py)**
 * 🚀 **[(Ejercicio 6.6)](./ACTIVIDAD_4_POO/Ejercicio_6_6.py)**
-* 🚀 **[(Ejercicio 8.2)](./ACTIVIDAD_3_POO/Ejercicio_8_2.py)**
+* 🚀 **[(Ejercicio 6.7)](./ACTIVIDAD_4_POO/Ejercicio_6_7.py)**
 * 🚀 **[(Ejercicio 8.2)](./ACTIVIDAD_3_POO/Ejercicio_8_2.py)**
 
 # Actividad 3: Programacion Orientada a Objetos Grupo 3
