@@ -5,8 +5,8 @@
 # Actividad 5: Programacion Orientada a Objetos Grupo 3
 ---
 ## 📁 Carpeta Actividad 5
-* 🚀 **[(Ejercicio 8.4)](./ACTIVIDAD_5_POO/Ejercicio_8_4.py)**
-* 🚀 **[(Ejercicio 8.5)](./ACTIVIDAD_5_POO/Ejercicio_8_5.py)**
+* 🚀 **[(Ejercicio 8.4)](./ACTIVDAD_5_POO/Ejercicio_8_4.py)**
+* 🚀 **[(Ejercicio 8.5)](./ACTIVDAD_5_POO/Ejercicio_8_5.py)**
 
 # Actividad 4: Programacion Orientada a Objetos Grupo 3
 ---
